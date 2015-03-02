@@ -1,0 +1,10 @@
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\Pixie.Data.dll.config
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\Pixie.Data.dll
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\Pixie.Data.pdb
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\EntityFramework.dll
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\EntityFramework.xml
+E:\Projects\Pixie\Pixie\Pixie.Data\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\Pixie\Pixie\Pixie.Data\obj\Release\Pixie.Data.dll
+E:\Projects\Pixie\Pixie\Pixie.Data\obj\Release\Pixie.Data.pdb
+E:\Projects\Pixie\Pixie\Pixie.Data\obj\Release\Pixie.Data.csprojResolveAssemblyReference.cache
